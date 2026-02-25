@@ -1,4 +1,5 @@
 {
+  "contributors":["Zusel"],
   "message": "test",
   "label": "cla-confirmed",
   "recheckComment": "recheck"
